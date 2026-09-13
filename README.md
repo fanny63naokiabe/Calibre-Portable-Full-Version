@@ -247,4 +247,4 @@ This repository serves as the official landing page for Calibre Portable. The so
 **Get the most recent version of Calibre Portable today!**
 
 ---
-**Last updated:** 2026-09-12 23:42:57 UTC
+**Last updated:** 2026-09-13 03:04:10 UTC
